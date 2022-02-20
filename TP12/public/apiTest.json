@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "488 Pïsta",
+        "marca": "Ferrari",
+        "precio": 500,
+        "descripcion": "Una ferrari para vivir la vida loca,  elegante y deportiva",
+        "img": "https://s1.1zoom.me/b5050/4/Ferrari_2018_488_Pista_Red_552622_1920x1080.jpg"
+    },
+    {
+        "nombre": "Huracan",
+        "marca": "Lamborghini",
+        "precio": 50000,
+        "descripcion": "Un huracan de gustos, imposible no gustar.",
+        "img": "https://s1.1zoom.me/big7/408/Lamborghini_Performante_Huracan_2019_Black_572734_1920x1080.jpg"
+    },
+    {
+        "nombre": "Tycan",
+        "marca": "Porsche",
+        "precio": 2130000,
+        "descripcion": "La elegancia y la belleza de porsche en su maxima expresion.",
+        "img": "https://images4.alphacoders.com/112/1121590.jpg"
+    },
+    {
+        "nombre": "Enzo",
+        "marca": "Ferrari",
+        "precio": 15000,
+        "descripcion": "No es Enzo Perez pero te enamora a simple vista. ",
+        "img": "https://www.wallpapertip.com/wmimgs/57-573721_ferrari-enzo.jpg"
+    },
+    {
+        "nombre": "Aventador",
+        "marca": "Lamborghini",
+        "precio": 430000,
+        "descripcion": "Para un fiel aventurero, sentite en casa.",
+        "img": "https://www.wallpapertip.com/wmimgs/57-573575_lamborghini-wallpaper-lamborghini-aventador-wallpaper-hd.jpg"
+    },
+    {
+        "nombre": "911",
+        "marca": "Porsche",
+        "precio": 30000,
+        "descripcion": "LLame al 911 porque este auto tiene exceso de facha.",
+        "img": "https://wallpaperaccess.com/full/1257372.jpg"
+    }
+]

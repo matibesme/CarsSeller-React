@@ -1,0 +1,75 @@
+.marcaName {
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nombreAuto {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: -15px;
+}
+
+.divRow {
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  width: 7%;
+  height: 7%;
+}
+
+.auto {
+  width: 100%;
+}
+
+.my-masonry-grid {
+  display: -webkit-box; /* Not needed if autoprefixing */
+  display: -ms-flexbox; /* Not needed if autoprefixing */
+  display: flex;
+  margin-left: -30px; /* gutter size offset */
+  width: auto;
+}
+.my-masonry-grid_column {
+  padding-left: 30px; /* gutter size */
+  background-clip: padding-box;
+}
+
+/* Style your items */
+.my-masonry-grid_column > div {
+  /* change div to reference your elements you put in <Masonry> */
+  background: white;
+  margin-bottom: 30px;
+}
+
+.cardList {
+  background-color: white;
+  width: 70rem;
+  height: auto;
+  border-radius: 5px;
+  border: 1.5px solid #E3E3E3;
+  margin: 10px;
+}
+
+.flex {
+  display: flex;
+}
+
+.fotoAutoList {
+  height: auto;
+  width: 20rem;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.tamCarrousel {
+  max-width: 100%;
+  max-height: 400px;
+
+
+}
+.dec{
+  text-decoration: none;
+}
